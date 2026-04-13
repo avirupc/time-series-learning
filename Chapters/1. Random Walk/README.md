@@ -40,3 +40,13 @@ Where:
 
 Note that if the constant $C$ is nonzero, we designate this process as a random walk with drift.
 
+
+
+# Exercise
+
+Source of the exercise:<br>
+Chapter 3.5 of **Marco Peixeiro**'s book **Time Series Forecasting in Python** 
+
+The solutions provided by the author can be found [here](https://github.com/marcopeix/TimeSeriesForecastingInPython/blob/master/CH03/CH03_exercises_solution.ipynb).
+
+I have tried to solve these exercises independently and my solutions are recorded in the `1. Exerise.ipynb` notebook. In some places I took the same random seed or initilizations as the author for comparing the results with his solutions. 
